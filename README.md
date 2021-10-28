@@ -1,3 +1,9 @@
+Take full advantage of the Bandwidth Alliance. Backblaze offers free egress to Cloudflare, and Cloudflare offers free egress to the internet. Cloudflare free plan workers allow up to 100k requests per day, consuming less than 50ms of CPU time each, not counting network latency or egress bandwidth. This worker will allow you to fetch files from your B2 bucket totally free.
+
+Links:
+https://www.cloudflare.com/bandwidth-alliance/backblaze/
+https://www.backblaze.com/b2/cloud-storage-pricing.html
+
 Deploy:
 -------
 1. Sign up for cloudflare workers free plan
