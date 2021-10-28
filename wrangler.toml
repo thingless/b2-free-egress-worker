@@ -1,0 +1,9 @@
+name = "b2-free-egress-worker"
+type = "javascript"
+workers_dev = true
+route = ""
+zone_id = ""
+
+#[secrets]
+#B2_ACCOUNT_ID
+#B2_ACCOUNT_KEY
