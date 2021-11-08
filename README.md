@@ -14,3 +14,4 @@ Deploy:
 7. `wrangler secret put B2_ACCOUNT_ID` and enter B2 keyID at CLI
 8. `wrangler secret put B2_ACCOUNT_KEY` and enter B2 applicationKey at CLI
 9. `wrangler publish` to deploy
+10. Access your files at `https://b2-free-egress-worker.YOUR_SUBDOMAIN.workers.dev/BUCKET_NAME/FILE_PATH`

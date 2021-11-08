@@ -3,6 +3,7 @@ type = "javascript"
 workers_dev = true
 route = ""
 zone_id = ""
+compatibility_date = "2021-11-08"
 
 #[secrets]
 #B2_ACCOUNT_ID
